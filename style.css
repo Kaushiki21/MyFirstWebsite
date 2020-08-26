@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+
+img {
+	text-align: center;
+}
+
+hr {
+	width: 50%;
+	border: 1px solid black;
+}
+
+.container {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.icons {
+	text-align: center;
+}
+
+p {
+	margin-top: 25px;
+	margin-right : 50px;
+	margin-left : 50px;
+}
+footer {
+	margin-top: 50px;
+	background-color: black;
+	color: #ffffff
+
+}
+.footer-link{
+	color: #ffffff
+}
+ul{
+	list-style: none;
+}
+
+.img-fluid {
+	padding: 50px;
+}
+.text-center {
+	margin-top: 20px;
+}
